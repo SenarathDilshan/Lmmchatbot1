@@ -1,0 +1,10 @@
+torch
+transformers
+numpy
+langchain
+langchain_community
+langchain-chroma
+sentence_transformers
+rank_bm25
+pypdf
+gradio
